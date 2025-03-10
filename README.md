@@ -11,7 +11,5 @@ This project is part of the Algorithms (Spring 2024, SKKU). SWE2016_41
 
 ## 3. Huffman Coding
 - **Description**: Implements Huffman coding for file compression and decompression.
-- **Compression**:
-- Reads ASCII text, builds Huffman tree, encodes text.
-- **Decompression**:
-- Reads Huffman tree, decodes text.
+- **Compression**: Reads ASCII text, builds Huffman tree, encodes text.
+- **Decompression**: Reads Huffman tree, decodes text.
